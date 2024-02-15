@@ -1,1 +1,2 @@
-# JavaScript-MiniProject
+# JavaScript-MiniProject <br>
+Author : Shahriar Hasan
